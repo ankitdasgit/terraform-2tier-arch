@@ -131,6 +131,6 @@ resource "aws_instance" "web2" {
   key_name = "newkey"
 
   tags = {
-    Name = "ec2 2"
+    Name = "ec2-2"
   }
 }
